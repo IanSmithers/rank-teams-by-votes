@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankedVotingConsoleApp", "RankedVotingConsoleApp\RankedVotingConsoleApp.csproj", "{80AB5CAB-7519-42F0-8FEC-771DC2A7C430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AB5CAB-7519-42F0-8FEC-771DC2A7C430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AB5CAB-7519-42F0-8FEC-771DC2A7C430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AB5CAB-7519-42F0-8FEC-771DC2A7C430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AB5CAB-7519-42F0-8FEC-771DC2A7C430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

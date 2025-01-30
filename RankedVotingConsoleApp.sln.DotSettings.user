@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEnumerable_002Ecs_002Fl_003AC_0021_003FUsers_003Fconta_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fca6bf72c27214e9bbbce02bd09f96e2e848a0_003Fde_003Fa65d29e2_003FEnumerable_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEnvironment_002Ecs_002Fl_003AC_0021_003FUsers_003Fconta_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd5e26b7cbc3c8ffaa5eb6b56961c2ddefd21293d38d4a648eeb54d2d127492de_003FEnvironment_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AJsonConverter_002Ecs_002Fl_003AC_0021_003FUsers_003Fconta_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F271ff13b389fc2c712f501e9437e5b5fc715633ecae83b699233c124d9ab2_003FJsonConverter_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=66f952ff_002Dedfe_002D4b53_002D95c2_002Da64d253b93e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.MeetsAllValidationConditions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.FailsAllEqualLengthValidation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.FailsAllUppercaseValidation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.FailsAllAlphaOnlyValidation("WXYZ","W1XY","ZWXYA")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.FailsAllUniqueValidation("WAXY","WZXY","ZWXYA")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingWeightsTests.MeetsAllValidationConditions("WXYZ","WZXY","ZWXY")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingWeightsTests.CorrectlyHandlesEmptyInput("","","")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingWeightsTests.CorrectlyHandlesNoInput()&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingInputValidatorTests.FailsNotEmptyValidation("","","")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingConsoleInputHandlerTests.CorrectlyHandlesNullInput(null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingConsoleInputHandlerTests.CorrectlyHandlesEmptyInput("")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingConsoleInputHandlerTests.CorrectlyHandlesValidInput("[\"WXYZ\", \"XYWZ\"]")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7BF29F0E-EDFE-4BB6-9F98-B7AB78E273B7::net8.0::Tests.VotingConsole.VotingConsoleInputHandlerTests.CorrectlyHandlesInvalidInput("FOOBAR")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
