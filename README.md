@@ -1,4 +1,4 @@
-# Add Teams By Votes
+# Rank Teams By Votes
 
 This is a repository that contains a solution for Leetcode proble #1366
 
